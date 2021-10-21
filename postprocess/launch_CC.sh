@@ -1,0 +1,1 @@
+python connected_components.py /home/jose/projects/TableUnderstandingPriorInfo/works_HisClima/ROW/work_graph_ROW_32,32,32ngfs_base_1_notext_graph_k10_wh0ww0jh1jw1_min0_maxwidth0.5_tablecell_mish_modeltransformer_3 row
